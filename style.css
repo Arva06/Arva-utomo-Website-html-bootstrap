@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.skill {
+    height: 250px;
+}
+
+ a:link, a;:visited {
+       background-color: black;
+
+}
+
+ a:hover, a:active {
+    text-transform: uppercase;
+}
